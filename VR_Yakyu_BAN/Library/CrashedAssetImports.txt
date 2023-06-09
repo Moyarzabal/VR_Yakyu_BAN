@@ -1,1 +1,1 @@
-Assets/SkySeries Freebie/FreebieHdri/DarkStorm4K.hdr
+Assets/SkySeries Freebie/FreebieHdri/MegaSun4k.hdr
