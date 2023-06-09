@@ -1,1 +1,1 @@
-Assets/SkySeries Freebie/FreebieHdri/CloudedSunGlow4k.hdr
+Assets/SkySeries Freebie/FreebieHdri/CoriolisNight4k.hdr
