@@ -1,1 +1,1 @@
-Assets/Oculus/SampleFramework/Usage/HandsTrainExample/TrainScene/Lightmap-35_comp_light.exr
+Assets/Oculus/VR/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
